@@ -1,0 +1,43 @@
+# Build artifacts
+build/
+out/
+bin/
+obj/
+*.exe
+*.ilk
+*.pdb
+*.lib
+*.dll
+*.exp
+*.obj
+
+# IDE specific
+.vs/
+.vscode/
+CMakeSettings.json
+
+# CMake generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Data files (if large)
+*.idx*-ubyte
+*.csv
+
+# Optional: Ignore local user files
+*.user
+*.suo
+*.sdf
+
+# Visual Studio temporary files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build directories
+build/
+out/

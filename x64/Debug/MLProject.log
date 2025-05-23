@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Jinzo\Desktop\Work\CPP\MLVS\ML\MLProject\Algorithms\Kmeans.h(33,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Jinzo\Desktop\Work\CPP\MLVS\ML\MLProject\Source.cpp(96,86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jinzo\Desktop\Work\CPP\MLVS\ML\MLProject\Source.cpp(96,29): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  MLProject.vcxproj -> C:\Users\Jinzo\Desktop\Work\CPP\MLVS\ML\x64\Debug\MLProject.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
